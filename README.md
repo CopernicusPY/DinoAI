@@ -25,3 +25,7 @@ After customizing the dino.py file, you are ready to run the bot!
 python dino.py
 ```
 After executing the command, go to your google-chrome dino game window and enjoy!
+# ToDo
+Detect cactuses
+Create game-speeding handling algorithm
+Add command-line arguments
