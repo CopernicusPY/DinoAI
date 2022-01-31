@@ -1,6 +1,7 @@
 
 import cv2 as cv
 import pyautogui
+import numpy as np
 #As of now this script captures data from screen that can be customized by the user, and uses image annotation to display the pixel value that the user is interested in to the screen.
 #I may turn this into a class for a more user friendly expirience when the AI is done.
 #Image Manipulation-Related Functions
