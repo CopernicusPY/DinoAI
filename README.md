@@ -4,6 +4,7 @@ This is my first Open-Source AI project so feel free to suggest new feautures.
 # Updates Log
 - [x] Clear the code
 - [x] Add image annotation to display pixel value
+- [x] Check if the game status is day/night
 - [ ] Check pixel value and jump if needed
 - [ ] Change pixel x depending on game speed
 # Installation
@@ -25,7 +26,3 @@ After customizing the dino.py file, you are ready to run the bot!
 python dino.py
 ```
 After executing the command, go to your google-chrome dino game window and enjoy!
-# ToDo
-Detect cactuses
-Create game-speeding handling algorithm
-Add command-line arguments
